@@ -26,7 +26,8 @@ Download the plugin and go to user dashboard and plugins>add new then click on u
 
 
 == Screenshots ==
-1. dashboard widget
+** Visit for :** [Screenshot](http://learn24bd.com/portfolio/wp-user-summary-plugins/)
+
 
 == Changelog ==
 No change log yet.
