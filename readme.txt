@@ -1,5 +1,5 @@
 === WP User Summary ===
-Contributors: learn24bd
+Contributors: haruncpi
 Tags: user, summary,user-staus,user,info,at glance
 Donate link: http://learn24bd.com/donate
 Requires at least: 3.0
